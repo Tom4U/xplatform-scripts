@@ -1,7 +1,7 @@
 # Cross-platform scripts for Windows and Linux
 
 ## Installation
-`npm install --save-dev @tom4/xplatform-scripts
+`npm install --save-dev @tom4/xplatform-scripts`
 
 ---
 
